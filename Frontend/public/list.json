@@ -1,0 +1,61 @@
+[ 
+    {
+        "id":1,
+        "name":"The Haunted Book",
+        "tittle":"All about the haunted creatures ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/creepy-halloween-background-with-flat-design_23-2147926529.jpg?semt=sph"
+    },
+    {
+        "id":1,
+        "name":"The Comedy Book",
+        "tittle":"All about the haunted creatures ",
+        "price":20,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/creepy-halloween-background-with-flat-design_23-2147926529.jpg?semt=sph"
+
+    },
+    {
+        "id":1,
+        "name":"The Haunted Book",
+        "tittle":"All about the haunted creatures ",
+        "price":40,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/creepy-halloween-background-with-flat-design_23-2147926529.jpg?semt=sph"
+
+    },
+    {
+        "id":1,
+        "name":"The Historical Book",
+        "tittle":"All about the Historical Places ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/vintage-books-with-paper-scroll-feather-ink-pot-colored-sketch-decorative-concept-vector-illustration_1284-2997.jpg?semt=ais_user"
+    },
+    {
+        "id":1,
+        "name":"The Funny Book",
+        "tittle":"All about the Jokes  ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-paper-cartoon-illustration_23-2151352369.jpg?semt=ais_user"
+
+    },{
+        "id":1,
+        "name":"The Historical Book",
+        "tittle":"All about the Historical Places ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/vintage-books-with-paper-scroll-feather-ink-pot-colored-sketch-decorative-concept-vector-illustration_1284-2997.jpg?semt=ais_user"
+    },
+    {
+        "id":1,
+        "name":"The Historical Book",
+        "tittle":"All about the Historical Places ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/vintage-books-with-paper-scroll-feather-ink-pot-colored-sketch-decorative-concept-vector-illustration_1284-2997.jpg?semt=ais_user"
+    }
+
+]
